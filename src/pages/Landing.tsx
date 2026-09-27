@@ -43,8 +43,8 @@ const Landing = () => {
               hidden: { opacity: 0}
             }}
         >
-                Vincent Van Gogh.
-                post-impressionist painter and artist
+                KENT HARVIN ANG.
+Virtual Assistant • GHL • CRM • Automation
         </motion.p>
         <motion.div className=" pt-[10%] pl-[10%] xl:pl-0 pr-[10%] xl:pr-[5%] flex flex-col xl:flex-row justify-center"
             initial="hidden"
