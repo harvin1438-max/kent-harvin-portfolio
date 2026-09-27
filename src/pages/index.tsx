@@ -62,7 +62,7 @@ export default function Home() {
   return (
     <div className="dark:bg-black scroll-smooth w-full h-full transition-colors duration-500">
       <Head>
-        <title>Portfolio Vincent</title>
+        <title>Portfolio Kent</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header/> 
