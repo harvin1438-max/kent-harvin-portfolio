@@ -21,21 +21,21 @@ const Footer = () => {
                 </div>
                 <a href="" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>|</a> 
                 <div className='flex'>
-                    <a href="https://discord.gg/bVxCeh9WDA" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>Discord</a>
+                    <a href="https://discord.com/channels/1398316549323886723/1398316549323886726" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>Discord</a>
                     <svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg" >
                     <path fillRule="evenodd" clipRule="evenodd" d="M8.88001 3.19279L13.6512 3.73254C13.944 3.76567 14.2081 4.02987 14.2413 4.32265L14.781 9.09381C14.8141 9.38659 14.6037 9.59709 14.3109 9.56396C14.0181 9.53084 13.7539 9.26664 13.7208 8.97386L13.3258 5.48255L3.48999 15.3184L2.65546 14.4838L12.4913 4.64802L8.99995 4.25305C8.70717 4.21992 8.44297 3.95573 8.40985 3.66295C8.37673 3.37016 8.58723 3.15967 8.88001 3.19279Z" className='fill-black dark:fill-white ease-in-out duration-500'/>
                     </svg>
                 </div>
                 <a href="" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>|</a> 
                 <div className='flex'>
-                    <a href="https://github.com/notsoocool" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>GITHUB</a>
+                    <a href="https://github.com/harvin1438-max/kent-harvin-portfolio" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>GITHUB</a>
                     <svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg" >
                     <path fillRule="evenodd" clipRule="evenodd" d="M8.88001 3.19279L13.6512 3.73254C13.944 3.76567 14.2081 4.02987 14.2413 4.32265L14.781 9.09381C14.8141 9.38659 14.6037 9.59709 14.3109 9.56396C14.0181 9.53084 13.7539 9.26664 13.7208 8.97386L13.3258 5.48255L3.48999 15.3184L2.65546 14.4838L12.4913 4.64802L8.99995 4.25305C8.70717 4.21992 8.44297 3.95573 8.40985 3.66295C8.37673 3.37016 8.58723 3.15967 8.88001 3.19279Z" className='fill-black dark:fill-white ease-in-out duration-500'/>
                     </svg>
                 </div>
                 <a href="" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>|</a> 
                 <div className='flex'>
-                    <a href="https://www.instagram.com/__vyas.ji__/" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>Instagram</a>
+                    <a href="https://https://www.instagram.com/harvin143/" className=' dark:text-white font-Inter uppercase ease-in-out duration-500'>Instagram</a>
                     <svg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg" >
                     <path fillRule="evenodd" clipRule="evenodd" d="M8.88001 3.19279L13.6512 3.73254C13.944 3.76567 14.2081 4.02987 14.2413 4.32265L14.781 9.09381C14.8141 9.38659 14.6037 9.59709 14.3109 9.56396C14.0181 9.53084 13.7539 9.26664 13.7208 8.97386L13.3258 5.48255L3.48999 15.3184L2.65546 14.4838L12.4913 4.64802L8.99995 4.25305C8.70717 4.21992 8.44297 3.95573 8.40985 3.66295C8.37673 3.37016 8.58723 3.15967 8.88001 3.19279Z" className='fill-black dark:fill-white ease-in-out duration-500'/>
                     </svg>
