@@ -41,6 +41,10 @@ const Footer = () => {
       name: "Instagram",
       url: "https://www.instagram.com/harvin143/",
     },
+    {
+      name: "Email",
+      url: "mailto:harvin143@gmail.com",
+     }, 
   ];
 
   return (
