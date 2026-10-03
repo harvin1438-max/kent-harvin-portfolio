@@ -107,11 +107,11 @@ Virtual Assistant • GHL • CRM • Automation
         >
             <motion.div className="pr-[17%] xl:pr-[11%]" variants={childV}>
                 <img src="https://cdn.discordapp.com/attachments/941091409509896283/942357991158599710/3.svg" />
-                <a className="font-Inter dark:text-white duration-500 ease-in-out">3 &nbsp;&nbsp;&nbsp;&nbsp;   THE RED VINEYARD</a>
+                <a className="font-Inter dark:text-white duration-500 ease-in-out">3 &nbsp;&nbsp;&nbsp;&nbsp;   CUSTOMER SUPPORT & COMMUNICATION</a>
             </motion.div>
             <motion.div className=" pt-11 xl:pt-0 pr-10 xl:pr-0" variants={childV}>
                 <img src="https://cdn.discordapp.com/attachments/941091409509896283/942357979792044072/4.svg" />
-                <a className="font-Inter dark:text-white duration-500 ease-in-out">4 &nbsp;&nbsp;&nbsp;&nbsp;   WARD IN THE HOSPITAL IN ARLES</a>
+                <a className="font-Inter dark:text-white duration-500 ease-in-out">4 &nbsp;&nbsp;&nbsp;&nbsp;   APPOINTMENT & PIPELINE MANAGEMENT</a>
             </motion.div>
         </motion.div>
         <motion.div className=" pt-10 xl:pt-24 pl-[10%] xl:pl-0 flex flex-col xl:flex-row justify-center"
