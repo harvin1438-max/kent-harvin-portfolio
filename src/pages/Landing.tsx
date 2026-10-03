@@ -62,16 +62,27 @@ Virtual Assistant • GHL • CRM • Automation
             }}
         >
             <motion.div className="pr-[10%]" variants={childV}>
-                <Link href="/Night">
-                    <img src="https://cdn.discordapp.com/attachments/941091409509896283/942357990319751238/1.svg"  className="cursor-pointer"/>
-                </Link>
-                <Link href="/Night" >
-                    <a className="font-Inter dark:text-white duration-500 ease-in-out">1 &nbsp;&nbsp;&nbsp;&nbsp; THE STARRY NIGHT</a>
-                </Link>
-            </motion.div>
-            
-            <motion.div className=" pt-[10%]  xl:pt-[3%]" variants={childV}>
-                <Link href="/Cafe">
+    <Link href="/Night">
+        <img
+            src="https://cdn.discordapp.com/attachments/941091409509896283/942357990319751238/1.svg"
+            className="cursor-pointer"
+        />
+    </Link>
+    <Link href="/Night">
+        <a className="font-Inter dark:text-white duration-500 ease-in-out">
+        <motion.div className="pt-[10%] xl:pt-[3%]" variants={childV}>
+    <Link href="/Cafe">
+        <img
+            src="https://cdn.discordapp.com/attachments/941091409509896283/942357990890168320/2.svg"
+            className="cursor-pointer"
+        />
+    </Link>
+    <Link href="/Cafe">
+        <a className="font-Inter dark:text-white duration-500 ease-in-out">
+            2 &nbsp;&nbsp;&nbsp;&nbsp; LEAD GENERATION & FOLLOW-UP
+        </a>
+    </Link>
+</motion.div>
                     <img src="https://cdn.discordapp.com/attachments/941091409509896283/942357990890168320/2.svg" className="cursor-pointer"/>
                 </Link>
                 <Link href="/Cafe">
